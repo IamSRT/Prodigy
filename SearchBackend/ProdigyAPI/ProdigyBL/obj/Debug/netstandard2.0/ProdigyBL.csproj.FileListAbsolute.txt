@@ -1,0 +1,12 @@
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\bin\Debug\netstandard2.0\ProdigyBL.deps.json
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\bin\Debug\netstandard2.0\ProdigyBL.dll
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.csprojAssemblyReference.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.AssemblyInfoInputs.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.AssemblyInfo.cs
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\bin\Debug\netstandard2.0\ProdigyBL.pdb
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\bin\Debug\netstandard2.0\ProdigyModels.dll
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\bin\Debug\netstandard2.0\ProdigyModels.pdb
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.csproj.CopyComplete
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.dll
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyBL\obj\Debug\netstandard2.0\ProdigyBL.pdb

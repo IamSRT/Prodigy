@@ -1,0 +1,9 @@
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\bin\Release\netstandard2.0\ProdigyModels.deps.json
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\bin\Release\netstandard2.0\ProdigyModels.dll
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\bin\Release\netstandard2.0\ProdigyModels.pdb
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.csprojAssemblyReference.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.csproj.CoreCompileInputs.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.AssemblyInfoInputs.cache
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.AssemblyInfo.cs
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.dll
+C:\Users\venkatesh.kilari\source\repos\ProdigyAPI\ProdigyModels\obj\Release\netstandard2.0\ProdigyModels.pdb
