@@ -36,8 +36,8 @@ Running application using other os
 https://docs.microsoft.com/en-us/dotnet/core/tutorials/using-with-xplat-cli
 
 API Links:
-http://134.209.151.250/api/search/GetProducts?searchTerm={{search string}}
-http://134.209.151.250/api/search/GetSuggestions?searchTerm={{search string}}
+http://134.209.151.250/api/search/GetProducts?searchTerm={{search_string}}
+http://134.209.151.250/api/search/GetSuggestions?searchTerm={{search_string}}
 
 
 
