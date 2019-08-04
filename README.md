@@ -11,6 +11,17 @@ The product has 5 components
 The prodigy application can be accessed from following url:
 http://134.209.145.199:8080/prodgy/#/
 
+----- Tag Attribution Engine Set up
+Pre-requisities:
+1. Python3
+2. Complete NLTK download
+3. Flask micro web application framework
+
+Steps to run:
+1. Cd to tag_attribution_engine folder
+2. initialize virtual environment
+3. install flask and nltk 
+
 ----- Frontend web application
 
 Pre-requisites :
