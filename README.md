@@ -25,5 +25,23 @@ Steps to run:
 
 host url : http://134.209.145.199:8080/prodgy/
 
+----- Search Backend Application (.Net Core)
+.Net core version : V2.1
+
+Running application using visual studio in windows 
+https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites?tabs=netcore2x
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run?tabs=netcore21
+
+Running application using other os
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/using-with-xplat-cli
+
+API Links:
+http://134.209.151.250/api/search/GetProducts?searchTerm={{search string}}
+http://134.209.151.250/api/search/GetSuggestions?searchTerm={{search string}}
+
+
+
+
+
 
 
